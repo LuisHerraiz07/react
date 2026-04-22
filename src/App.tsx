@@ -81,7 +81,7 @@ export default function App() {
     <div style={{ fontFamily: "'DM Sans', system-ui, sans-serif", maxWidth: '900px', margin: '0 auto', padding: '32px 24px' }}>
 
       <h1 style={{ fontFamily: "'DM Serif Display', Georgia, serif", fontSize: '28px', marginBottom: '4px' }}>
-        Task<em style={{ fontStyle: 'normal', color: '#3D3A8F' }}>Flow</em> — Práctica 4
+        Práctica 4
       </h1>
       <p style={{ color: '#6B6860', marginBottom: '32px', fontSize: '14px' }}>
         TypeScript · Genéricos · Uniones Discriminadas · Tipos de Utilidad
